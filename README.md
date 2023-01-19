@@ -20,4 +20,11 @@ Entidades e atributos, contendo chaves primárias (PK) e estrangeiras (FK). Uma 
 
 ## MODELO CONCEITUAL
 O modelo conceitual foi criado na plataforma [Diagram Software and Flowchart Maker](https://www.diagrams.net)
-![image](https://user-images.githubusercontent.com/112867913/213440472-ea9f113c-c0f0-44ab-8238-ffa230bdad35.png)
+
+![image](https://user-images.githubusercontent.com/112867913/213447237-a0b66753-6a7d-44c2-b032-8205deef1255.png)
+
+## MODELO LÓGICO
+O modelo lógico foi desenvolvido no programa PHP MyAdmin (Xampp)
+
+![image](https://user-images.githubusercontent.com/112867913/213450541-81f5bc7f-8507-414e-8646-04fadb6eed78.png)
+
